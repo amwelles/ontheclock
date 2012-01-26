@@ -1,0 +1,42 @@
+body {
+  background: white;
+  color: black;
+  font-family: "Lucida Grande", "Verdana", sans-serif;
+  margin: 2em 0 15em; }
+
+a {
+  text-decoration: underline; }
+  a:link, a:visited {
+    color: #990000; }
+  a:active, a:hover {
+    color: black; }
+
+#contain {
+  width: 500px;
+  margin: 0 auto; }
+
+h1 {
+  line-height: 57px;
+  background-image: url("./img/clock.gif");
+  background-repeat: no-repeat;
+  background-position-y: 3px;
+  padding-left: 70px;
+  margin-left: -70px; }
+
+h2 {
+  margin-bottom: 0;
+  margin-top: 3em;
+  padding-top: 0.5em;
+  border-top: 5px solid #eeeeee; }
+
+p, ul {
+  font-size: 12px;
+  line-height: 22px; }
+
+footer {
+  color: #888888;
+  margin-top: 3em; }
+  footer a:link, footer a:visited {
+    color: #666666; }
+  footer a:active, footer a:hover {
+    color: #333333; }
